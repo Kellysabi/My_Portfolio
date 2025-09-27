@@ -6,7 +6,7 @@
   <br />
   
   <a href="https://kelly-folio.vercel.app/" target="_blank">
-    <img src="public/images/readme.png" alt="Portfolio Banner" width="800" style="border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 217, 255, 0.3);"/>
+    <img src="public/images/readme2.png" alt="Portfolio Banner" width="800" style="border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 217, 255, 0.3);"/>
   </a>
   
   <br /><br />

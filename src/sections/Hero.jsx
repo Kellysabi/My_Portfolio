@@ -31,7 +31,7 @@ const Hero = () => {
               <h1>
                 Transforming
                 <span className="slide">
-                  <span className="wrapper  text-[15px] md:text-[60px] lg:text-[80px] xl:text-[100px] font-semibold"> 
+                  <span className="wrapper  text-[15px] md:text-[60px]  font-semibold"> 
 
                     {words.map((word, index) => (
                       <span
