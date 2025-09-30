@@ -53,7 +53,7 @@ const Hero = () => {
               <h1>That Drive Measurable Successs</h1>
             </div>
 
-             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">Hi, I’m Akwara Kelechi Emmanuel, a Software Engineer based in Nigeria, passionate about Full-Stack Development, Cloud & DevOps, AI/ML, Blockchain, and Cybersecurity. </p>
+             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">Hi, I’m Akwara Kelechi Emmanuel, a Software Engineer focused on Full-Stack Development and expanding my expertise in Cloud, AI/ML, Blockchain, and Cybersecurity to solve real-world challenges. </p>
 
             <Button
               text="See My Work"
