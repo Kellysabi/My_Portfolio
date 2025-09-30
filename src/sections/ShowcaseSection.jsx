@@ -292,8 +292,7 @@ const ProjectModal = ({ project, isOpen, onClose }) => {
   const currentStatus = statusConfig[project.status] || statusConfig.Live;
 
   return (
-    <br>
-      <br>
+   
  <div 
   ref={modalRef}
   className="fixed inset-0 bg-black/90 backdrop-blur-md z-50 flex justify-center p-2 sm:p-4 mt-[120px]"
