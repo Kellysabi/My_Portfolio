@@ -97,9 +97,10 @@ const Experience = () => {
     >
       <div className="w-full h-full md:px-20 px-5">
 <TitleHeader
-  title="Career and Academic Experience"
-  sub="💼🎓 An Overview of My Professional & Educational Path"
+  title="Education & Career Experience"
+  sub="🎓💼 My Academic and Professional Path"
 />
+
 
 
 
